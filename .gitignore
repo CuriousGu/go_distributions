@@ -1,0 +1,12 @@
+/venv
+/continuous_distributions
+testing.py
+*/__pycache__
+.pytest_cache
+*.egg-info
+pypi_creds.txt
+*.ipynb
+*.ipynb_checkpoints
+utils.txt
+requirements.txt
+/.github
